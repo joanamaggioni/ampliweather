@@ -35,5 +35,4 @@ Observação: Este projeto é apenas uma prova de conceito e não possui todas a
 
 # Demonstrativo de Usabilidade e Responsividade
 
-![](responsavidade1.gif)
-![](usabilidade.gif)
+https://drive.google.com/file/d/1OWQSWHJSUn6TvdQ_j__tkhe-JIWTysjU/view?usp=sharing
