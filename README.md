@@ -26,7 +26,9 @@ O aplicativo possui as seguintes funcionalidades:
 -> Histórico de Pesquisa: O aplicativo possui um botão para acessar o histórico de pesquisa, mas essa funcionalidade também não foi completamente implementada.
 
 # Tecnologias Utilizadas
-HTML, CSS e JavaScript: Linguagens de programação para desenvolvimento da interface do usuário.
+HTML, CSS e JavaScript (React): Utilizado para o desenvolvimento da interface do usuário.
+
+Axios: Biblioteca utilizada para realizar requisições da API.
 
 API WeatherStack: API de previsão do tempo utilizada para obter os dados meteorológicos.
 
