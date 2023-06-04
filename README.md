@@ -32,3 +32,8 @@ Executando o Aplicativo
 Para executar o aplicativo, siga as etapas abaixo:
 
 Observação: Este projeto é apenas uma prova de conceito e não possui todas as funcionalidades completamente implementadas. O objetivo principal é demonstrar o funcionamento básico do aplicativo de previsão do tempo.
+
+# Demonstrativo de Usabilidade e Responsividade
+
+![](responsavidade1.gif)
+![](usabilidade.gif)
