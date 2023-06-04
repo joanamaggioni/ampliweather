@@ -5,14 +5,23 @@ Este projeto é uma prova de conceito de um aplicativo de previsão do tempo que
 O aplicativo possui as seguintes funcionalidades:
 
 -> Pesquisa por CEP: O usuário pode inserir o CEP da sua localização para obter os dados meteorológicos da cidade correspondente.
+
 -> Exibição de Dados: O aplicativo exibe os seguintes dados meteorológicos:
+
 -> Temperatura atual
+
 -> Nome da cidade
+
 -> Descrição do clima
+
 -> Velocidade do vento
+
 -> Outros dados meteorológicos relevantes, como umidade e índice de raios UV.
+
 -> Visualização detalhada: Além do cartão principal com os dados principais, o aplicativo exibe mais seis cartões com informações detalhadas sobre a previsão do tempo.
+
 -> Comparação de Cidades: O aplicativo possui um botão para comparar a previsão do tempo entre diferentes cidades, no entanto, essa funcionalidade não está completamente implementada.
+
 -> Histórico de Pesquisa: O aplicativo possui um botão para acessar o histórico de pesquisa, mas essa funcionalidade também não foi completamente implementada.
 
 # Tecnologias Utilizadas
