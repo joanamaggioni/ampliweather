@@ -35,4 +35,5 @@ Observação: Este projeto é apenas uma prova de conceito e não possui todas a
 
 # Demonstrativo de Usabilidade e Responsividade
 
-https://drive.google.com/file/d/1OWQSWHJSUn6TvdQ_j__tkhe-JIWTysjU/view?usp=sharing
+![usabilidade1 (1)](https://github.com/joanamaggioni/ampliweather/assets/100417975/7e21f9e9-a228-4234-8c3f-c3bf6aa0794e)
+![usabilidade1 (2)](https://github.com/joanamaggioni/ampliweather/assets/100417975/cfd9da6d-b70f-4845-86ea-2f9e2dd29c3d)
